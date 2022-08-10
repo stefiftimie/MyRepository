@@ -1,1 +1,2 @@
-alert("Hello there")
+alert("Hello there");
+console.log("frefsw")
